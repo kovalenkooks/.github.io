@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<!-- позиціонування -->
+		<header> header</header>	
+		<nav>nav</nav>
+		
+	  <section class="wrapper">
+		<section class="sidebar">sidebar</section>	
+		<main> 
+			<article class="yelow"> yelow</article>
+			<article class="width"> width</article>
+		</main>
+		<section class="add"> add  </section>
+	  </section>
+	</body>
+	</html>
